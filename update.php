@@ -2,7 +2,7 @@
 <?php
     $server = 'localhost'; // 127.0.0.1
     $username = 'root';
-    $password = 'rootroot';
+    $password = 'daquest';
     $db = 'csc309';
 
     // Open a new connection
